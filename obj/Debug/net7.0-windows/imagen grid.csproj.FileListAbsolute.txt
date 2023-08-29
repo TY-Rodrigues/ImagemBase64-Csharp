@@ -1,0 +1,17 @@
+C:\imagen grid\bin\Debug\net7.0-windows\imagen grid.exe
+C:\imagen grid\bin\Debug\net7.0-windows\imagen grid.deps.json
+C:\imagen grid\bin\Debug\net7.0-windows\imagen grid.runtimeconfig.json
+C:\imagen grid\bin\Debug\net7.0-windows\imagen grid.dll
+C:\imagen grid\bin\Debug\net7.0-windows\imagen grid.pdb
+C:\imagen grid\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.csproj.AssemblyReference.cache
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.AssemblyInfoInputs.cache
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.AssemblyInfo.cs
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.csproj.CoreCompileInputs.cache
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.csproj.CopyComplete
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.dll
+C:\imagen grid\obj\Debug\net7.0-windows\refint\imagen grid.dll
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.pdb
+C:\imagen grid\obj\Debug\net7.0-windows\imagen grid.genruntimeconfig.cache
+C:\imagen grid\obj\Debug\net7.0-windows\ref\imagen grid.dll
